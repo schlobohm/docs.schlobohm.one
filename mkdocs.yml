@@ -1,0 +1,17 @@
+site_name: schlobohm.one
+extra:
+  social:
+    - icon: material/home
+      link: //docs.schlobohm.one/
+markdown_extensions:
+  - toc:
+      permalink: ⚓︎
+  - pymdownx.highlight:
+      use_pygments: true
+theme:
+  name: material
+  features:
+    - instant
+  palette:
+    primary: white
+    accent: blue
